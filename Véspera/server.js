@@ -35,7 +35,7 @@ app.use(
 // ⚠️ COLOQUE AQUI A SUA CHAVE DO MONGODB
 // Exemplo local: 'mongodb://127.0.0.1:27017'
 // Exemplo Atlas: 'mongodb+srv://usuario:senha@cluster.mongodb.net/?retryWrites=true&w=majority'
-const urlMongo = "mongodb://localhost:27017"; // 🔧 <- ALTERE AQUI SE PRECISAR
+const urlMongo = "mongodb+srv://prof_alexresende:futurefest2025@futurefest2025.5ljzwdj.mongodb.net/?appName=FutureFest2025"; // 🔧 <- ALTERE AQUI SE PRECISAR
 const nomeBanco = "MY_LIFE_APP";
 
 // =========================================================
